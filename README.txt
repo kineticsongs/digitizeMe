@@ -1,3 +1,5 @@
+What is this?  Wiki explains it all.
+
 Create a directory named "target".
 
 Build
