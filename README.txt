@@ -1,3 +1,5 @@
+Create a directory named "target".
+
 Build
 =====
 
